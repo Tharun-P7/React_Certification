@@ -1,0 +1,1 @@
+React consists of two type of components : Funtional Component and Class Component
